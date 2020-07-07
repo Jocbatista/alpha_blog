@@ -22,5 +22,4 @@ Things you may want to cover:
 - Deployment instructions
 
 - ...
-
-Complete Ruby on Rails Developer 1
+  First test repo on the Complete Ruby on Rails Developer course by Jose Batista
